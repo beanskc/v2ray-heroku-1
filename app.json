@@ -5,7 +5,7 @@
   "env": {
     "UUID": {
        "description": "VMess client UUID",
-       "value": "91cb66ba-a373-43a0-8169-33d4eeaeb857"
+       "value": "09f047de-2a09-42de-b1e3-6c88bae80b68"
      }
   },
   "stack": "container",
